@@ -33,7 +33,8 @@
         "*.a"
     ],
     "modules": [
-        "name": "tcl",
+        {
+            "name": "tcl",
             "sources": [{
                 "type": "archive",
                 "url": "http://prdownloads.sourceforge.net/tcl/tcl8.6.12-src.tar.gz",
