@@ -73,7 +73,7 @@
                     ]
                 },
                 {
-                    "name": "tck",
+                    "name": "tk",
                     "buildsystem": "autotools",
                     "subdir": "unix",
                     "post-install": [
