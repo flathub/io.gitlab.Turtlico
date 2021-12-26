@@ -149,13 +149,6 @@
             ]
         },
         {
-            "name": "python3-site-packages",
-            "buildsystem": "simple",
-            "build-commands": [
-                "echo '/usr/lib/python3.9/site-packages/' > /app/lib/python3.9/site-packages/usr.pth"
-            ]
-        },
-        {
             "name": "turtlico",
             "builddir": true,
             "buildsystem": "meson",
