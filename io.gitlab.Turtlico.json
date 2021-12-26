@@ -155,6 +155,7 @@
             "config-opts": [],
             "sources": [
                 {
+                    "type": "git",
                     "url": "https://gitlab.com/turtlico/turtlico.git",
                     "tag": "1.0.0",
                     "commit": "98b15b0afef864c102511d9e48cf18bb05a8d08a"
