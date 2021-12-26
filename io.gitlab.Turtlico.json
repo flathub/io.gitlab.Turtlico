@@ -109,9 +109,9 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://raw.githubusercontent.com/python/cpython/3.9/Lib/turtle.py",
+                    "url": "https://raw.githubusercontent.com/python/cpython/v3.9.9/Lib/turtle.py",
                     "dest-filename": "turtle.py",
-                    "sha256": "fd87a4dad42efda9ed3553d226f229b5c3725f5e6c8805831864640d9b628fd1"
+                    "sha256": "fb3209395b13b2a45a3371606d604079e66da241be4453b6034a85960c186182"
                 }
             ]
         },
