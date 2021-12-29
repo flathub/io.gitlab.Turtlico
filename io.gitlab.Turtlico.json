@@ -10,12 +10,8 @@
         "--socket=x11",
         "--socket=wayland",
         "--socket=pulseaudio",
-        "--filesystem=xdg-run/dconf",
-        "--filesystem=~/.config/dconf:ro",
         "--filesystem=host",
-        "--talk-name=ca.desrt.dconf",
         "--device=all",
-        "--env=DCONF_USER_CONFIG_DIR=.config/dconf",
         "--env=GPIOZERO_PIN_FACTORY=native",
         "--env=PYTHONUNBUFFERED=1"
     ],
