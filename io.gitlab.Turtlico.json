@@ -100,7 +100,7 @@
             "name": "python3-turtle",
             "buildsystem": "simple",
             "build-commands": [
-                "cp turtle.py ${FLATPAK_DEST}/lib/python3.9/site-packages"
+                "cp turtle.py ${FLATPAK_DEST}/lib/python3.11/site-packages"
             ],
             "sources": [
                 {
