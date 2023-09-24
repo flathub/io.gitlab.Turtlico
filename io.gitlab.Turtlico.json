@@ -1,7 +1,7 @@
 {
     "app-id": "io.gitlab.Turtlico",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "41",
+    "runtime-version": "45",
     "sdk": "org.gnome.Sdk",
     "command": "turtlico",
     "finish-args": [
@@ -100,7 +100,7 @@
             "name": "python3-turtle",
             "buildsystem": "simple",
             "build-commands": [
-                "cp turtle.py ${FLATPAK_DEST}/lib/python3.9/site-packages"
+                "cp turtle.py ${FLATPAK_DEST}/lib/python3.11/site-packages"
             ],
             "sources": [
                 {
