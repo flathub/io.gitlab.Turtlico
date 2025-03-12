@@ -83,8 +83,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://prdownloads.sourceforge.net/tcl/tk8.6.12-src.tar.gz",
-                            "sha256": "12395c1f3fcb6bed2938689f797ea3cdf41ed5cb6c4766eec8ac949560310630",
+                            "url": "https://prdownloads.sourceforge.net/tcl/tk9.0.1-src.tar.gz",
+                            "sha256": "d6f01a4d598bfc6398be9584e1bab828c907b0758db4bbb351a1429106aec527",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 4941,
